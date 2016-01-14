@@ -3,7 +3,7 @@
     "title": "Seahawks Newbie",
     "min": "0",
     "max": "3",
-    "description": "Don't worry, these questions were pretty hard. Most of them. Well, some of them. But it's OK &mdash; you have plenty to learn about the Seahawks and their 40-year history.",
+    "description": "Don't worry, these questions were pretty hard. Most of them. Well, some of them. But it's OK &mdash; you have plenty to learn about the Seahawks and their 40-year history. Hey, we know a newspaper you can read to learn more!",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
@@ -11,17 +11,17 @@
   {
     "title": "12 since '12",
     "min": "4",
-    "max": "6",
-    "description": "So, you know the Seahawks' recent history well. You have much to learn about the years Before Russell Wilson ... or \"BRW,\" as the historians say.",
+    "max": "7",
+    "description": "So, you know the Seahawks' recent history well. All those years before 2012? Not so much. You have much to learn about the Seahawks as they were Before Russell Wilson ... or \"BRW,\" as the historians say. ",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
   },
   {
     "title": "Nerd Alert",
-    "min": "7",
+    "min": "8",
     "max": "10",
-    "description": "Nicely done! You got more than half of the questions right. You have more to learn, but you are a true Seahawks fan. ",
+    "description": "Nicely done! You got more than half of the questions right. You have more to learn, but you are a true Seahawks fan.",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
@@ -39,7 +39,7 @@
     "title": "Bob Condotta",
     "min": "15",
     "max": "15",
-    "description": "Wow! A perfect score! Want to come work for The Seattle Times? Just kidding. But we're impressed! You know the Seahawks better than your own children. Have you talked to them lately?",
+    "description": "Wow! A perfect score! Want to come work for The Seattle Times? Just kidding. But we're very impressed!",
     "image": "",
     "photographer": "Photographer Name",
     "source": "Source Name"
