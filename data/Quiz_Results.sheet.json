@@ -3,7 +3,7 @@
     "title": "Seahawks Newbie",
     "min": "0",
     "max": "3",
-    "description": "Don't worry, these questions were pretty hard. Most of them. Well, some of them. But it's OK &mdash; you have plenty to learn about the Seahawks and their 40-year history. Hey, we know a newspaper you can read to learn more!",
+    "description": "Don't worry, these questions were pretty hard. Most of them. Well, some of them. But it's OK &mdash; you have plenty to learn about the Seahawks and their 40-year history.",
     "image": "seahawksnewbie.jpg",
     "photographer": "Bettina Hansen",
     "source": "The Seattle Times"
@@ -21,7 +21,7 @@
     "title": "Nerd Alert",
     "min": "8",
     "max": "10",
-    "description": "Nicely done! You got more than half of the questions right. You have more to learn, but you are a true Seahawks fan.",
+    "description": "Nicely done! You got a majority of the questions right. You have more to learn, but you are a true Seahawks fan indeed.",
     "image": "nerdalert.jpg",
     "photographer": "Lindsey Wasson",
     "source": "The Seattle Times"
