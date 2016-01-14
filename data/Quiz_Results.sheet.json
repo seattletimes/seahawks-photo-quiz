@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Seahawks Newbie",
+    "min": "0",
+    "max": "3",
+    "description": "Don't worry, these questions were pretty hard. Most of them. Well, some of them. But it's OK &mdash; you have plenty to learn about the Seahawks and their 40-year history.",
+    "image": "test.jpg",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
+  },
+  {
+    "title": "12 since '12",
+    "min": "4",
+    "max": "6",
+    "description": "So, you know the Seahawks' recent history well. You have much to learn about the years Before Russell Wilson ... or \"BRW,\" as the historians say.",
+    "image": "test.jpg",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
+  },
+  {
+    "title": "Nerd Alert",
+    "min": "7",
+    "max": "10",
+    "description": "Nicely done! You got more than half of the questions right. You have more to learn, but you are a true Seahawks fan. ",
+    "image": "test.jpg",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
+  },
+  {
+    "title": "Hawks-pert",
+    "min": "11",
+    "max": "14",
+    "description": "Well done! You are quite the Seahawks expert. You missed an obscure one here or there. But you can hold your head high with pride!",
+    "image": "test.jpg",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
+  },
+  {
+    "title": "Bob Condotta",
+    "min": "15",
+    "max": "15",
+    "description": "Wow! A perfect score! Want to come work for The Seattle Times? Just kidding. But we're impressed! You know the Seahawks better than your own children. Have you talked to them lately?",
+    "image": "",
+    "photographer": "Photographer Name",
+    "source": "Source Name"
+  }
+]

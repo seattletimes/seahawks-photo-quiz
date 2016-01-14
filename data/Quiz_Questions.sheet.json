@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "title": "1",
+    "question": "In this January 2014 photo, Richard Sherman is celebrating what famous play of his?",
+    "image": "quiz001.JPG",
+    "photographer": "John Lok / The Seattle Times"
+  },
+  {
+    "id": "2",
+    "title": "2",
+    "question": "In what year did the Raiders' Bo Jackson famously barrel over Brian Bosworth on 'Monday Night Football'?",
+    "image": "quiz002.JPG",
+    "photographer": "Harley Soltes / The Seattle Times"
+  },
+  {
+    "id": "3",
+    "title": "3",
+    "question": "Who caught the Seahawks' first-ever touchdown reception in the 1976 preseason?",
+    "image": "quiz003.JPG",
+    "photographer": "Larry Dion / The Seattle Times"
+  },
+  {
+    "id": "4",
+    "title": "4",
+    "question": "How many tackles did Marshawn Lynch shed during his famous 'Beast Quake' touchdown run?",
+    "image": "quiz004.JPG",
+    "photographer": "John Lok / The Seattle Times"
+  },
+  {
+    "id": "5",
+    "title": "5",
+    "question": "How many field goals did kicker Josh Brown miss during Seattle's loss in Super Bowl XL?",
+    "image": "quiz005.JPG",
+    "photographer": "Dean Rutz / The Seattle Times"
+  },
+  {
+    "id": "6",
+    "title": "6",
+    "question": "After advancing through Miami, what team did the 1983 Seahawks lose to in the AFC Championship game?",
+    "image": "quiz006.JPG",
+    "photographer": "Matt McVay / The Seattle Times"
+  },
+  {
+    "id": "7",
+    "title": "7",
+    "question": "In a 2002 game against Minnesota, how many touchdowns did Shaun Alexander tally to set an NFL record for TDs scored in one half?",
+    "image": "quiz007.JPG",
+    "photographer": "Rod Mar / The Seattle Times"
+  },
+  {
+    "id": "8",
+    "title": "8",
+    "question": "What unexpected Seahawks player was named MVP of Super Bowl XLVIII?",
+    "image": "quiz008.JPG",
+    "photographer": "John Lok / The Seattle Times"
+  },
+  {
+    "id": "9",
+    "title": "9",
+    "question": "Over his 11-year career, all in Seattle, how many seasons was Cortez Kennedy selected for the Pro Bowl?",
+    "image": "quiz009.JPG",
+    "photographer": "Rod Mar / The Seattle Times"
+  },
+  {
+    "id": "10",
+    "title": "10",
+    "question": "In what year did Steve Largent become the Seahawks' first member of the Pro Football Hall of Fame?",
+    "image": "quiz010.JPG",
+    "photographer": "Harley Soltes / The Seattle Times"
+  },
+  {
+    "id": "11",
+    "title": "11",
+    "question": "This controversial 1998 play involving Jets QB Vinny Testaverde, sparking the return of video replay to the NFL, is now known as what?",
+    "image": "quiz011.JPG",
+    "photographer": "Rod Mar / The Seattle Times"
+  },
+  {
+    "id": "12",
+    "title": "12",
+    "question": "When the Patriots intercepted Russell Wilson's goal-line pass to seal a victory in Super Bowl XLIX, for whom was the pass intended?",
+    "image": "quiz012.JPG",
+    "photographer": "Bettina Hansen / The Seattle Times"
+  },
+  {
+    "id": "13",
+    "title": "13",
+    "question": "With replacement refs on the turf, the Seahawks' famous 'Fail Mary' win over Green Bay sparked the NFL to settle a labor dispute with its regular officials how many days later?",
+    "image": "quiz013.JPG",
+    "photographer": "John Lok / The Seattle Times"
+  },
+  {
+    "id": "14",
+    "title": "14",
+    "question": "How many touchdowns did Matt Hasselbeck throw in the fourth quarter of his final game with the Seahawks?",
+    "image": "quiz014.JPG",
+    "photographer": "Dean Rutz / The Seattle Times"
+  },
+  {
+    "id": "15",
+    "title": "15",
+    "question": "Which one of these men were not part of the original Seahawks franchise ownership group?",
+    "image": "quiz015.JPG",
+    "photographer": "Vic Condiotty / The Seattle Times"
+  }
+]
