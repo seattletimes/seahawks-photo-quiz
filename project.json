@@ -14,7 +14,7 @@
   "url": "http://projects.seattletimes.com/2016/quizzes/seahawks-photo-quiz/",
   "slug": "",
   "tags": [ "quiz" ],
-  "image": "assets/social.jpg",
+  "image": "http://projects.seattletimes.com/2016/quizzes/seahawks-photo-quiz/assets/social.jpg",
   "sheets": ["1vevGDfuFmFEnf3OMmN6swL-B4Jx8D1IuFtODR8Nj-bU"],
   "production": true,
   "embedded": false
