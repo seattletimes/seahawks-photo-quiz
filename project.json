@@ -2,20 +2,20 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": ""
+      "path": "interesting-impala"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
       "path": "2016/quizzes/seahawks-photo-quiz"
     }
   },
-  "title": "",
-  "description": "",
+  "title": "Test your knowledge of iconic moments in Seahawks history",
+  "description": "Memories are fleeting, but photographs can last forever. How well do you remember the most memorable moments in the 40-year history of Seattle's football franchise? Test your fandom with our Seahawks Photo Quiz.",
   "url": "http://projects.seattletimes.com/2016/quizzes/seahawks-photo-quiz/",
   "slug": "",
   "tags": [ "quiz" ],
   "image": "assets/social.jpg",
   "sheets": ["1vevGDfuFmFEnf3OMmN6swL-B4Jx8D1IuFtODR8Nj-bU"],
-  "production": false,
-  "embedded": true
+  "production": true,
+  "embedded": false
 }

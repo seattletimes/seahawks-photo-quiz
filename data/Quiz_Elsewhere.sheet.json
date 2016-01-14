@@ -1,30 +1,30 @@
 [
   {
-    "title": "Title 1",
+    "title": "Forget the iconic moments; test your true Seahawks trivia knowledge",
     "order": "1",
-    "category": "Category 1",
-    "link": "http://projects.seattletimes.com/2015/seahawks-personality-quiz/",
-    "image": "test.jpg"
+    "category": "History Quiz",
+    "link": "http://projects.seattletimes.com/2015/quizzes/seahawks-history/",
+    "image": "historyquiz300.jpg"
   },
   {
-    "title": "Title 2",
+    "title": "Find, download, customize and print all our Seahawks paper dolls",
     "order": "2",
-    "category": "Category 2",
-    "link": "http://www.seattletimes.com/photo-video/art-of-movement-competes-in-breakdancing-battle/",
-    "image": "test.jpg"
+    "category": "Paper Hawks",
+    "link": "http://www.seattletimes.com/category/paperhawks/",
+    "image": "paperhawks300.jpg"
   },
   {
-    "title": "Title 3",
+    "title": "Which Seahawk are you? Take our test to find out",
     "order": "3",
-    "category": "Category 3",
-    "link": "http://projects.seattletimes.com/2015/seattle-architecture-quiz/",
-    "image": "test.jpg"
+    "category": "Personality Quiz",
+    "link": "http://projects.seattletimes.com/2015/which-seahawk-are-you/",
+    "image": "personalityquiz300.jpg"
   },
   {
-    "title": "Title 4",
+    "title": "All our fun activities, fan maps, quizzes and more, all in one place",
     "order": "4",
-    "category": "Category 4",
-    "link": "http://www.seattletimes.com/seattle-news/data/does-everyone-in-seattle-drive-a-subaru/",
-    "image": "test.jpg"
+    "category": "Get Ready for the Game!",
+    "link": "http://www.seattletimes.com/tag/seahawks-fan-zone/",
+    "image": "fanzone300.jpg"
   }
 ]

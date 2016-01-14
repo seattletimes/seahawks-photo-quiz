@@ -4,44 +4,44 @@
     "min": "0",
     "max": "3",
     "description": "Don't worry, these questions were pretty hard. Most of them. Well, some of them. But it's OK &mdash; you have plenty to learn about the Seahawks and their 40-year history. Hey, we know a newspaper you can read to learn more!",
-    "image": "test.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "image": "seahawksnewbie.jpg",
+    "photographer": "Bettina Hansen",
+    "source": "The Seattle Times"
   },
   {
     "title": "12 since '12",
     "min": "4",
     "max": "7",
     "description": "So, you know the Seahawks' recent history well. All those years before 2012? Not so much. You have much to learn about the Seahawks as they were Before Russell Wilson ... or \"BRW,\" as the historians say. ",
-    "image": "test.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "image": "12since12.jpg",
+    "photographer": "Lauren Frohne",
+    "source": "The Seattle Times"
   },
   {
     "title": "Nerd Alert",
     "min": "8",
     "max": "10",
     "description": "Nicely done! You got more than half of the questions right. You have more to learn, but you are a true Seahawks fan.",
-    "image": "test.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "image": "nerdalert.jpg",
+    "photographer": "Lindsey Wasson",
+    "source": "The Seattle Times"
   },
   {
     "title": "Hawks-pert",
     "min": "11",
     "max": "14",
     "description": "Well done! You are quite the Seahawks expert. You missed an obscure one here or there. But you can hold your head high with pride!",
-    "image": "test.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "image": "hawkspert.jpg",
+    "photographer": "Dean Rutz",
+    "source": "The Seattle Times"
   },
   {
     "title": "Bob Condotta",
     "min": "15",
     "max": "15",
     "description": "Wow! A perfect score! Want to come work for The Seattle Times? Just kidding. But we're very impressed!",
-    "image": "",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "image": "bobcondotta.jpg",
+    "photographer": "Dean Rutz",
+    "source": "The Seattle Times"
   }
 ]
